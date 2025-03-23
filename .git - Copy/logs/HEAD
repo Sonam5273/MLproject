@@ -1,8 +1,0 @@
-0000000000000000000000000000000000000000 73859fda7df5a87aaa0faea94c515df7690835b0 Sonam Kumari <sonamkumari14071999@gmail.com> 1742494464 +0530	commit (initial): First commit
-73859fda7df5a87aaa0faea94c515df7690835b0 0000000000000000000000000000000000000000 Sonam Kumari <sonamkumari14071999@gmail.com> 1742495739 +0530	Branch: renamed refs/heads/main to refs/heads/main
-73859fda7df5a87aaa0faea94c515df7690835b0 73859fda7df5a87aaa0faea94c515df7690835b0 Sonam Kumari <sonamkumari14071999@gmail.com> 1742495739 +0530	Branch: renamed refs/heads/main to refs/heads/main
-73859fda7df5a87aaa0faea94c515df7690835b0 91a90f11fef576d5297257383385f4f2b21df169 Sonam Kumari <sonamkumari14071999@gmail.com> 1742496847 +0530	pull: Fast-forward
-91a90f11fef576d5297257383385f4f2b21df169 afe8e124ab8c91a38217a6fa4f74eababf0891b4 Sonam Kumari <sonamkumari14071999@gmail.com> 1742576832 +0530	commit: setup
-afe8e124ab8c91a38217a6fa4f74eababf0891b4 956d51a48bde1355ead779e2cf2cb13f43303000 Sonam Kumari <sonamkumari14071999@gmail.com> 1742623526 +0530	commit: logging and exception
-956d51a48bde1355ead779e2cf2cb13f43303000 c3e41bbbfdf3b80a63e38f5a545bfb198316959e Sonam Kumari <sonamkumari14071999@gmail.com> 1742627850 +0530	commit: EDA and problems statement
-c3e41bbbfdf3b80a63e38f5a545bfb198316959e 6e4917f6f6fdc259244010e203c3a2476a11e8ab Sonam Kumari <sonamkumari14071999@gmail.com> 1742632642 +0530	commit: EDA and problems statement
