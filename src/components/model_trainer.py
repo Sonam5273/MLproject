@@ -24,7 +24,7 @@ class ModelTrainerConfig:
     trained_model_file_path=os.path.join("artifacts","model.pkl")
 
 class ModelTrainer:
-    def _init_(self):
+    def __init__(self):
         self.model_trainer_config=ModelTrainerConfig()
 
 
@@ -117,4 +117,3 @@ class ModelTrainer:
             
         except Exception as e:
             raise CustomException(e,sys)
-
